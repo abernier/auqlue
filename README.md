@@ -8,15 +8,9 @@ module.exports = 42
 ```
 to show how to publish a NPM package, here called: [`auqlue`](https://www.npmjs.com/package/auqlue).
 
-# Usage
-
-```js
-const answer = require('auqlue')
-
-console.log('the Answer to the Ultimate Question of Life, the Universe, and Everything is:', answer)
-```
-
 # Publish to NPM
+
+Ready to publish a new version to NPM registry?
 
 ## Manually
 
