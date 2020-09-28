@@ -6,7 +6,7 @@ A sample repository containing a dead simple module:
 // index.js
 module.exports = 42
 ```
-to show how to publish a NPM package, here called: [`auqlie`](https://www.npmjs.com/package/auqlue).
+to show how to publish a NPM package, here called: [`auqlue`](https://www.npmjs.com/package/auqlue).
 
 # Usage
 
