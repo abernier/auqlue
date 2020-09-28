@@ -1,7 +1,7 @@
 [![ci/cd](https://github.com/abernier/auqlue/workflows/ci/cd/badge.svg)](https://github.com/abernier/auqlue/actions?query=workflow%3Aci%2Fcd)
 [![NPM version](https://img.shields.io/npm/v/auqlue.svg?style=flat)](https://www.npmjs.com/package/auqlue)
 
-A sample repository containing a dead simple module:
+A sample repository containing a dead simple Node module:
 ```js
 // index.js
 module.exports = 42
