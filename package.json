@@ -1,0 +1,20 @@
+{
+  "name": "auqlue",
+  "version": "1.0.0",
+  "description": "the Answer to the Ultimate Question of Life, the Universe, and Everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"process.exit(require('./index') === 42 ? 0 : 1)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abernier/auqlue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abernier/auqlue/issues"
+  },
+  "homepage": "https://github.com/abernier/auqlue#readme"
+}
