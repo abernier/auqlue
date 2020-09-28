@@ -34,6 +34,8 @@ Pre-requisite:
 1. Generate a new NPM access token on [npmjs.com](https://www.npmjs.com/) (you need a NPM account and be logged-in)
 2. Set it as `NPM_TOKEN` secret (in `Settings > Secrets` and as referenced into [`cicd.yml`](https://github.com/abernier/auqlue/blob/master/.github/workflows/cicd.yml#L37) file)
 
+---
+
 Then, to release a new version on [npm](https://www.npmjs.com/package/auqlue):
 1. bump the [`package.json` version](https://github.com/abernier/auqlue/edit/master/package.json)
 2. then, create [a new realese](https://github.com/abernier/auqlue/releases/new) and wait for the [ci/cd](https://github.com/abernier/auqlue/actions?query=workflow%3Aci%2Fcd) publish it :)
