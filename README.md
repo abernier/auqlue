@@ -30,10 +30,8 @@ $ git push --tags
 ## Using [CI/CD](https://github.com/abernier/auqlue/actions?query=workflow%3Aci%2Fcd) workflow
 
 Pre-requisite:
-1. Generate a NPM token:
-   ![](https://assets.codepen.io/67030/image_24.png)
-2. Set it as `NPM_TOKEN` secret (as referenced into [`cicd.yml`](https://github.com/abernier/auqlue/blob/master/.github/workflows/cicd.yml#L37) file):
-   ![](https://assets.codepen.io/67030/image_25.png)
+1. Generate a NPM token
+2. Set it as `NPM_TOKEN` secret (as referenced into [`cicd.yml`](https://github.com/abernier/auqlue/blob/master/.github/workflows/cicd.yml#L37) file)
 
 To release a new version on [npm](https://www.npmjs.com/package/auqlue):
 1. bump the [`package.json` version](https://github.com/abernier/auqlue/edit/master/package.json)
