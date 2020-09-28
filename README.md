@@ -32,3 +32,4 @@ $ git push --tags
 To release a new version on [npm](https://www.npmjs.com/package/auqlue):
 1. bump the [`package.json` version](https://github.com/abernier/auqlue/edit/master/package.json)
 2. then, create [a new realese](https://github.com/abernier/auqlue/releases/new) and wait for the [ci/cd](https://github.com/abernier/auqlue/actions?query=workflow%3Aci%2Fcd) publish it :)
+   ![](https://assets.codepen.io/67030/release.png)
