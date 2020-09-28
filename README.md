@@ -31,7 +31,7 @@ $ git push --tags
 
 Pre-requisite:
 1. Generate a NPM token
-2. Set it as `NPM_TOKEN` secret (as referenced into [`cicd.yml`](https://github.com/abernier/auqlue/blob/master/.github/workflows/cicd.yml#L37) file)
+2. Set it as `NPM_TOKEN` secret (in `Settings > Secrets` and as referenced into [`cicd.yml`](https://github.com/abernier/auqlue/blob/master/.github/workflows/cicd.yml#L37) file)
 
 Then, to release a new version on [npm](https://www.npmjs.com/package/auqlue):
 1. bump the [`package.json` version](https://github.com/abernier/auqlue/edit/master/package.json)
