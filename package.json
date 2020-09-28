@@ -1,6 +1,6 @@
 {
   "name": "auqlue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the Answer to the Ultimate Question of Life, the Universe, and Everything",
   "main": "index.js",
   "scripts": {
