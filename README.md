@@ -8,6 +8,8 @@ module.exports = 42
 ```
 to show how to publish a NPM package, here called: [`auqlue`](https://www.npmjs.com/package/auqlue).
 
+NB: `AUQLUE` is the acronym for [the "Answer to the Ultimate Question of Life, the Universe, and Everything"](https://en.m.wikipedia.org/wiki/42_(number)#:~:text=The%20number%2042%20is%2C%20in,period%20of%207.5%20million%20years.).
+
 # Publish to NPM
 
 Ready to publish a new version to NPM registry?
