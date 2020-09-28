@@ -18,7 +18,16 @@ console.log('the Answer to the Ultimate Question of Life, the Universe, and Ever
 ### Manually
 
 1. bump the `package.json` version
-2. 
+2. `npm login` if not already
+3. `npm publish`
+
+If successful, you should want to tag the version:
+```shell
+$ git add package.json
+$ git commit -m "bump version"
+$ git tag v1.0.1
+$ git push --tags
+```
 
 ### Using CI/CD
 
